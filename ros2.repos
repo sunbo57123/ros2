@@ -371,3 +371,7 @@ repositories:
     type: git
     url: https://github.com/ros2/yaml_cpp_vendor.git
     version: master
+  sunbo57123/ros2cli_common_extension
+    type: git
+    url: https://github.com/sunbo57123/ros2cli_common_extension.git
+    version: master
