@@ -362,4 +362,4 @@ repositories:
   sunbo57123/ros2cli_common_extension:
     type: git
     url: https://github.com/sunbo57123/ros2cli_common_extension.git
-    version: meta-package
+    version: master
