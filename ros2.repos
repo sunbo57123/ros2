@@ -199,10 +199,6 @@ repositories:
     type: git
     url: https://github.com/ros2/launch.git
     version: master
-  ros2/launch_ros:
-    type: git
-    url: https://github.com/ros2/launch_ros.git
-    version: master
   ros2/libyaml_vendor:
     type: git
     url: https://github.com/ros2/libyaml_vendor.git
@@ -330,10 +326,6 @@ repositories:
   ros2/spdlog_vendor:
     type: git
     url: https://github.com/ros2/spdlog_vendor.git
-    version: master
-  ros2/sros2:
-    type: git
-    url: https://github.com/ros2/sros2.git
     version: master
   ros2/system_tests:
     type: git
